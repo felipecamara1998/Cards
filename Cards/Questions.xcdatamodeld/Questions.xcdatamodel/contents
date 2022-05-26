@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17192" systemVersion="20G80" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Alternativas" representedClassName="Alternativas" syncable="YES" codeGenerationType="class">
+        <attribute name="a" optional="YES" attributeType="String"/>
+        <attribute name="acertos" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="b" optional="YES" attributeType="String"/>
+        <attribute name="c" optional="YES" attributeType="String"/>
+        <attribute name="certa" optional="YES" attributeType="String"/>
+        <attribute name="d" optional="YES" attributeType="String"/>
+        <attribute name="pergunta" optional="YES" attributeType="String"/>
+        <attribute name="ref" optional="YES" attributeType="String"/>
+        <attribute name="tema" optional="YES" attributeType="String"/>
+        <attribute name="tentativas" optional="YES" attributeType="Double" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="Alternativas" positionX="-63" positionY="-18" width="128" height="179"/>
+    </elements>
+</model>
